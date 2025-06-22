@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "squad outlet | Premium E-commerce Development Squad",
+  title: "Squad Outlet | Premium E-commerce Development Squad",
   description:
     "squad outlet creates high-converting, professional e-commerce websites that drive sales and grow your business. Join our elite squad for custom development, mobile-first design, and ongoing support.",
   keywords:
